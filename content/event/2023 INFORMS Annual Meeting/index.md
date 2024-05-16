@@ -1,7 +1,7 @@
 ---
-title: 2023 INFORMS Annual Meeting
+title: Interpreting Characteristics Behaviors In Empirical Asset Pricing
 
-event: 2023 INFORMS Annual Meeting
+event: 2023 INFORMS Annual Meeting Poster Session
 event_url: https://meetings.informs.org/wordpress/phoenix2023/
 
 location: Phoenix, Arizona
@@ -12,13 +12,13 @@ location: Phoenix, Arizona
 #   postcode: '94305'
 #   country: United States
 
-summary: Interpreting Characteristics Behaviors In Empirical Asset Pricing
+summary: October 16, 2023, INFORMS Annual Meeting Poster Session
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 # date: '2023-10-15T13:00:00Z'
-date: '2023-10-17'
+date: '2023-10-16'
 # date_end: '2030-10-18T15:00:00Z'
 all_day: true
 
