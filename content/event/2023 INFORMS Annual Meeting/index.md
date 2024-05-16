@@ -12,7 +12,7 @@ location: Phoenix, Arizona
 #   postcode: '94305'
 #   country: United States
 
-summary: October 16, 2023, INFORMS Annual Meeting Poster Session
+summary: INFORMS Annual Meeting Poster Session
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.

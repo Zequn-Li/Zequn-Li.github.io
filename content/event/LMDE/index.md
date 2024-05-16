@@ -6,7 +6,7 @@ event_url: https://lmde2023.org/
 
 location: Syros, Greece
 
-summary: October 16, 2023, LMDE Doctoral Consortium
+summary: LMDE Doctoral Consortium
 
 date: '2023-06-23'
 

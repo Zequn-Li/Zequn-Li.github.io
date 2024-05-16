@@ -252,9 +252,9 @@ sections:
       directions: Office 219 on Floor 2
       office_hours: Email me for appointment
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '40.4433'
-        longitude: '74.0136'  
+      # coordinates:
+      #   latitude: '40.4433'
+      #   longitude: '74.0136'  
       # contact_links:
       #   - icon: twitter
       #     icon_pack: fab
