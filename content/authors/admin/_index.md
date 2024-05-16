@@ -11,7 +11,7 @@ last_name: Li
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,26 +25,29 @@ organizations:
     url: https://www.stevens.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include empirical asset pricing and interpretable machine learning. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Empirical Asset Pricing
+  - Interpretable Machine Learning
+
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Financial Engineering
+      institution: Stevens Institute of Technology
+      year: Expected 2025
+    - course: M.Sc in Financial Engineering
+      institution: NYU Tandon
+      year: 2018
+    - course: BSc in Finance and Applied Math
+      institution: University of Rhode Island
+      year: 2016
+    - course: BSc in International Finance
+      institution: 中南财经政法大学
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,10 +59,10 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
-        icon: chart-line
+        icon: r-project
         icon_pack: fas
       - name: SQL
         description: ''
@@ -70,17 +73,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Skiing
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: person-skiing
         icon_pack: fas
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
+        icon: bone
         icon_pack: fas
-      - name: Photography
+      - name: Travel
         description: ''
         percent: 80
         icon: camera-retro
@@ -120,5 +123,8 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zequn Li is a PhD Candidate at Stevens Institute of Technology. Her research focuses on empirical asset pricing and interpretable machine learning, particularly in understanding the dynamics between firm characteristics and stock returns.
+
+Zequn leverages her academic background and industry experience for advanced financial analysis and research. She has interned with leading asset management firms, gaining practical insights into the industry.
+
 {style="text-align: justify;"}
