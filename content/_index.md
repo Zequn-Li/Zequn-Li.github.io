@@ -241,7 +241,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: zli61@stevens.edu
       # phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: Babbio Center, 525 River St
         city: Hoboken
