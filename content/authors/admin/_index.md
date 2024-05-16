@@ -63,7 +63,7 @@ skills:
         description: ''
         percent: 100
         icon: r-project
-        icon_pack: fas
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 40
