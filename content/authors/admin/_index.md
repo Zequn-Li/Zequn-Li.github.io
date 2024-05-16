@@ -100,7 +100,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zequn-li-a1605b237/
-    label: Follow me on Twitter
+    # label: connect with me on LinkedIn
     display:
       header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
