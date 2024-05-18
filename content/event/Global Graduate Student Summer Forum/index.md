@@ -15,5 +15,4 @@ end_date: '2024-07-07'
 all_day: true
 
 featured: false
-
 ---
