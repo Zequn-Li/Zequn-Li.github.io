@@ -1,5 +1,5 @@
 ---
-title: Interpreting Cross-Section Returns of Machine Learning Models - Firm Characteristics and Moderation Effect through LIME
+title: Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
 
 event: AI Era in Finance Symposium
 event_url: https://www.meetup.com/friends-finance-women-symposium-gny/events/299439293/
