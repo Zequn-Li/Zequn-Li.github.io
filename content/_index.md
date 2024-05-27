@@ -67,8 +67,8 @@ sections:
           # company_url: ''
           # company_logo: org-gc
           location: Boston
-          date_start: '2023-06'
-          date_end: '2023-08'
+          date_start: '2023-06-01'
+          date_end: '2023-08-20'
           # description: |2-
           #     Responsibilities include:
 
@@ -80,8 +80,8 @@ sections:
           # company_url: ''
           # company_logo: org-x
           location: New York
-          date_start: '2022-06'
-          date_end: '2022-08'
+          date_start: '2022-06-01'
+          date_end: '2022-08-20'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
