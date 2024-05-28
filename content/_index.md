@@ -118,8 +118,8 @@ sections:
   #     order: desc
   #   design:
   #     # Choose a layout view
-      view: compact
-      columns: '2'
+      # view: compact
+      # columns: '2'
   - block: portfolio
     id: workingpaper
     content:
@@ -182,7 +182,7 @@ sections:
       columns: '1'
       view: citation
   - block: portfolio
-    id: conference
+    id: presentations
     content:
       title: Presentations
       filters:
@@ -196,6 +196,35 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  - block: markdown
+    id: teaching
+    content:
+      title: Teaching
+      text: <h4>Instructor at Stevens Institute of Technology</h4>
+        <ul>
+        <li>QF 104 Data Management in R
+        </ul>
+        <h4>Recitation Leader at Stevens Institute of Technology</h4>
+        <ul>
+        <li>QF 343 Introduction to Stochastic Calculus
+        </ul>
+        <h4>Teaching Assistant at Stevens Institute of Technology</h4>
+        <ul>
+        <li>QF 112 Statistics in Quantitative Finance
+        <li>FE 543 Introduction to Stochastic Calculus for Finance
+        <li>FA 590 Statistical Machine Learning
+        <li>FE 610 Stochastics Calculus for Financial Engineering
+        <li>FE 621 Computational Methods in Finance
+        <li>FE 630 Portfolio Theory and Applications
+        </ul>
+        <h4>Graduate Assistant at NYU Tandon School of Engineering</h4>
+        <li>FRE 6083 Quantitative Method in Finance
+        <li>FRE 6091 Financial Econometrics
+        <li>FRE 6233 Option Pricing and Stochastic Calculus
+        </ul>
+    design:
+      columns: '1'
+      view: compact
   - block: experience
     id: industryexperience
     content:

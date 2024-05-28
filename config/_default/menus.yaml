@@ -15,25 +15,25 @@ main:
   #   weight: 30
   - name: Working Papers
     url: '#workingpaper'
-    weight: 20
+    weight: 10
   - name: Publications
     url: '#publications'
-    weight: 50
-  - name: Talks
-    url: '#talks'
+    weight: 30
+  - name: Presentations
+    url: '#presentations'
     weight: 40
   - name: Teaching
     url: '#teaching'
-    weight: 60
+    weight: 50
   - name: Industry Experience
     url: '#industryexperience'
-    weight: 70
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/Zequn_Li_CV.pdf
-    weight: 70
+    weight: 80

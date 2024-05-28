@@ -1,5 +1,6 @@
 ---
-title: Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
+title: Interpreting Cross-Section Returns of Machine Learning Models 
+subtutle: Firm Characteristics and Moderation Effect through LIME
 summary: with Xiaoxia Lou, Ying Wu, Steve Yang
 tags:
   - Empirical Asset Pricing
