@@ -40,7 +40,7 @@ education:
       institution: Stevens Institute of Technology
       year: Expected 2025
     - course: M.Sc in Financial Engineering
-      institution: NYU Tandon
+      institution: NYU Tandon School of Engineering
       year: 2018
     - course: BSc in Finance and Applied Math
       institution: University of Rhode Island
