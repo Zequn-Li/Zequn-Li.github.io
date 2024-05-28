@@ -1,7 +1,16 @@
 ---
 title: Interpreting Cross-Section Returns of Machine Learning Models 
 subtutle: Firm Characteristics and Moderation Effect through LIME
-summary: with Xiaoxia Lou, Ying Wu, Steve Yang
+authors:
+  - Zequn Li
+  - Xiaoxia Lou
+  - Ying Wu
+  - Steve Yang
+author_notes: 
+  - School of Business, Stevens Institute of Technology
+  - Alfred Lerner College of Business and Economics, University of Delaware
+  - School of Business, Stevens Institute of Technology
+  - School of Business, Stevens Institute of Technology
 tags:
   - Empirical Asset Pricing
   - Interpretable Machine Learning

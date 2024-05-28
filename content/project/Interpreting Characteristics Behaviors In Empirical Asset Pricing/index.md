@@ -1,6 +1,9 @@
 ---
 title: Interpreting Characteristics Behaviors In Empirical Asset Pricing
-summary: single-authored
+authors: 
+  - Zequn Li
+author_notes: 
+  - single-authored
 tags:
   - Empirical Asset Pricing
   - Interpretable Machine Learning
