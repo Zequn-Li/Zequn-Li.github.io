@@ -273,9 +273,9 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Leave a message
+      # subtitle:
+      # text: |-
+      #   Leave a message
       # Contact (add or remove contact options as necessary)
       email: zli61@stevens.edu
       # phone: 888 888 88 88
@@ -307,15 +307,15 @@ sections:
       #     name: Zoom Me
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # autolink: true
+      # # Email form provider
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
