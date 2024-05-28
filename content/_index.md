@@ -92,7 +92,7 @@ sections:
   #         title: 'Object-Oriented Programming in R'
   #         url: ''
   #   design:
-  #     columns: '2'
+  #     columns: '1'
   # - block: collection
   #   id: posts
   #   content:
@@ -118,38 +118,38 @@ sections:
   #     order: desc
   #   design:
   #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - project
-  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  #     default_button_index: 0
-  #     # Filter toolbar (optional).
-  #     # Add or remove as many filters (`filter_button` instances) as you like.
-  #     # To show all items, set `tag` to "*".
-  #     # To filter by a specific tag, set `tag` to an existing tag name.
-  #     # To remove the toolbar, delete the entire `filter_button` block.
-  #     buttons:
-  #       - name: All
-  #         tag: '*'
-  #       - name: Deep Learning
-  #         tag: Deep Learning
-  #       - name: Other
-  #         tag: Demo
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-  #     view: showcase
-  #     # For Showcase view, flip alternate rows?
-  #     flip_alt_rows: false
+      view: compact
+      columns: '2'
+  - block: portfolio
+    id: workingpaper
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      # default_button_index: 0
+      # # Filter toolbar (optional).
+      # # Add or remove as many filters (`filter_button` instances) as you like.
+      # # To show all items, set `tag` to "*".
+      # # To filter by a specific tag, set `tag` to an existing tag name.
+      # # To remove the toolbar, delete the entire `filter_button` block.
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: compact
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
   # - block: markdown
   #   content:
-  #     title: Gallery
+  #     title: Presentations
   #     subtitle: ''
   #     text: |-
   #       {{< gallery album="demo" >}}
@@ -179,26 +179,27 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '1'
       view: citation
-  - block: collection
-    id: talks
+  - block: portfolio
+    id: conference
     content:
-      title: Selected Talks
+      title: Presentations
       filters:
         folders:
-          - event
+          - conference
     design:
-      columns: '2'
-      view: list
+      columns: '1'
+      view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
   - block: experience
+    id: industryexperience
     content:
-      title: Experience
+      title: Industry Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -208,11 +209,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Quantitative Research Intern
-          company: Acadian Asset Management
+        - company: Acadian Asset Management
+          title: Quantitative Research Intern
           # company_url: ''
           # company_logo: org-gc
-          location: Boston
+          location: Boston, MA
           date_start: '2023-06-01'
           date_end: '2023-08-20'
           # description: |2-
@@ -225,7 +226,7 @@ sections:
           company: Jennison Associate
           # company_url: ''
           # company_logo: org-x
-          location: New York
+          location: New York, NY
           date_start: '2022-06-01'
           date_end: '2022-08-20'
           # description: Taught electronic engineering and researched semiconductor physics.
@@ -233,12 +234,12 @@ sections:
           company: PGIM Quantitative Solutions
           # company_url: ''
           # company_logo: org-x
-          location: Newark
+          location: Newark, NJ
           date_start: '2021-06-01'
           date_end: '2021-08-20'
           # description: Taught electronic engineering and researched semiconductor physics.
     design:
-      columns: '2'
+      columns: '1'
   - block: contact
     id: contact
     content:

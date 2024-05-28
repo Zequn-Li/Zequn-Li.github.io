@@ -1,5 +1,5 @@
 ---
-title: Interpreting Characteristics Behaviors In Empirical Asset Pricing
+title: 2023 INFORMS Annual Meeting Poster Session
 
 event: 2023 INFORMS Annual Meeting Poster Session
 event_url: https://meetings.informs.org/wordpress/phoenix2023/
@@ -12,8 +12,8 @@ location: Phoenix, Arizona
 #   postcode: '94305'
 #   country: United States
 
-summary: INFORMS Annual Meeting Poster Session
-# abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Interpreting Characteristics Behaviors In Empirical Asset Pricing
+abstract: This study introduces an innovative framework to interpret the behaviors of firm characteristics in predicting expected returns through machine learning models, directly addressing the challenges of transparency and interpretability. Our approach utilizes the Local Interpretable Model-Agnostic Explanations (LIME) to evaluate firm characteristics based on their statistical significance and behaviors—linearity, independence, insignificance, and interaction—offering a novel perspective on their predictive roles. Empirical findings demonstrate a complex interplay among these behaviors, with interaction effects playing a pivotal role, thus challenging the traditional emphasis on linear and independent influences in asset pricing models. Our research provides new insights into the mechanisms of machine learning predictions in asset pricing, paving the way for further exploration into the economic rationale behind data-driven findings and enhancing understanding of complex asset pricing dynamics.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -57,8 +57,8 @@ featured: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects:
-#   - example
+projects:
+  - Interpreting Characteristics Behaviors In Empirical Asset Pricing
 ---
 
 <!-- {{% callout note %}}
@@ -72,3 +72,4 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
 Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
+This study introduces an innovative framework to interpret the behaviors of firm characteristics in predicting expected returns through machine learning models, directly addressing the challenges of transparency and interpretability. Our approach utilizes the Local Interpretable Model-Agnostic Explanations (LIME) to evaluate firm characteristics based on their statistical significance and behaviors—linearity, independence, insignificance, and interaction—offering a novel perspective on their predictive roles. Empirical findings demonstrate a complex interplay among these behaviors, with interaction effects playing a pivotal role, thus challenging the traditional emphasis on linear and independent influences in asset pricing models. Our research provides new insights into the mechanisms of machine learning predictions in asset pricing, paving the way for further exploration into the economic rationale behind data-driven findings and enhancing understanding of complex asset pricing dynamics.
