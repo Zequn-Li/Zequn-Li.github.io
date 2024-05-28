@@ -124,6 +124,7 @@ sections:
     id: workingpaper
     content:
       title: Working Papers
+      date_format: 'Jan 2006'
       filters:
         folders:
           - project

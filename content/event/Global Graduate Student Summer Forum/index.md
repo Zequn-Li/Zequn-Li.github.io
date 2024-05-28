@@ -12,6 +12,7 @@ summary: Interpreting Cross-Section Returns of Machine Learning Models Firm Char
 date: '2024-07-01'
 end_date: '2024-07-07'
 
+publishDate: '2024-05-28'
 all_day: true
 
 featured: false

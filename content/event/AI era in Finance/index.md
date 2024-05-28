@@ -9,6 +9,7 @@ location: Pace University, New York, NY
 summary: Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
 
 date: '2024-06-06'
+publishDate: '2024-05-28'
 
 all_day: true
 
