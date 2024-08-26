@@ -11,7 +11,7 @@ summary: Session - Corporate Innovation and Machine Learning
 date: '2024-11-20'
 end_date: '2024-11-23'
 
-publishDate: '2024-05-28'
+publishDate: '2024-07-28'
 all_day: true
 
 featured: false

@@ -11,10 +11,10 @@ summary: Session 243 - Machine Learning Applications in Asset Pricing
 date: '2024-10-16'
 end_date: '2024-10-19'
 
-publishDate: '2024-05-28'
+publishDate: '2024-07-28'
 all_day: true
 
-featured: false
+featured: true
 projects:
   - Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
 
