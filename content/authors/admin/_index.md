@@ -123,8 +123,8 @@ social:
 highlight_name: true
 ---
 
-Zequn Li is a PhD Candidate at Stevens Institute of Technology. Her research focuses on empirical asset pricing and interpretable machine learning, particularly in understanding the dynamics between firm characteristics and stock returns.
+Zequn Li is a PhD Candidate at Stevens Institute of Technology. Her research focuses on empirical asset pricing and interpretable machine learning, particularly in understanding the dynamics between firm characteristics and stock returns. Looking ahead, Zequn is eager to expand her research into fintech and financial analytics, with a focus on applying innovative technologies to financial markets.
 
-Zequn leverages her academic background and industry experience for advanced financial analysis and research. She has interned with leading asset management firms, gaining practical insights into the industry.
+In addition to her research, Zequn is dedicated to teaching and mentoring students in finance and quantitative methods. She has extensive experience teaching courses in programming for finance, statistics, and stochastic calculus, where she emphasizes the practical application of these skills in the financial industry. Zequn’s teaching approach is designed to inspire students’ interests, guide them in discovering their academic and professional goals, and equip them with the technical expertise needed to excel in their careers.
 
 {style="text-align: justify;"}
