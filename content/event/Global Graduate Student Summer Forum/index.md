@@ -7,7 +7,7 @@ event_url: https://www.cufe.edu.cn/info/1186/21776.htm
 
 location: Central University of Finance and Economics, Beijing, China
 
-summary: Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
+summary: Outstanding Performance Award
 
 date: '2024-07-01'
 end_date: '2024-07-07'
