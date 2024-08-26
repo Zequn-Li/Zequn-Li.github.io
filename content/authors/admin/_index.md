@@ -31,6 +31,8 @@ bio: My research interests include empirical asset pricing and interpretable mac
 interests:
   - Empirical Asset Pricing
   - Interpretable Machine Learning
+  - Fintech
+  - Financial Analytics
 
 
 # Education to show in About widget
