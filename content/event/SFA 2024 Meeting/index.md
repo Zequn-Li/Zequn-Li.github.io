@@ -5,7 +5,7 @@ event: SFA 2024 Meeting
 
 event_url: https://southernfinance.org/meeting
 
-location: Palm Beach Gardens
+location: Palm Beach Gardens, FL
 
 summary: Session - Corporate Innovation and Machine Learning
 date: '2024-11-20'
