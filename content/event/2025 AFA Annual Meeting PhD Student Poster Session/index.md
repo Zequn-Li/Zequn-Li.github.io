@@ -13,7 +13,7 @@ end_date: '2025-01-05'
 
 publishDate: '2024-09-05'
 all_day: true
-ß
+
 featured: false
 projects:
   - Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
