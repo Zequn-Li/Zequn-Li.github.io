@@ -126,7 +126,8 @@ sections:
       title: Working Papers
       sort_by: 'order'
       sort_ascending: true 
-      show_events: true # Add this line
+      show_related: true
+      show_date: false 
       # date_format: 'Jan 2006'
       filters:
         folders:
