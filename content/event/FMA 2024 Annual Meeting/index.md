@@ -32,7 +32,7 @@ tags:
 # authors: []
 
 # Add these new lines
-url_slides: 'uploads/FMA2024_presentation.pdf'  # Adjust the path to match your file name
+# url_slides: 'uploads/FMA2024_presentation.pdf'  # Adjust the path to match your file name
 links:
   - icon: file-pdf
     icon_pack: fas
