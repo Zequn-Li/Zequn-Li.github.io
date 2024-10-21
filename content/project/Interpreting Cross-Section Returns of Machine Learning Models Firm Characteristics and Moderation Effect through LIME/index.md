@@ -15,7 +15,7 @@ tags:
   - Empirical Asset Pricing
   - Interpretable Machine Learning
 
-date: '2024-04'
+date: '2024-04-27'
 order: 1  # Lower number appears first
 
 related_events:
