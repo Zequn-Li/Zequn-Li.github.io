@@ -14,6 +14,16 @@ end_date: '2024-10-19'
 publishDate: '2024-07-28'
 all_day: true
 
+
+# Add these new lines
+url_slides: '/slides/FMA2024_presentation.pdf'  # Adjust the path to match your file name
+links:
+  - icon: file-pdf
+    icon_pack: fas
+    name: Slides
+    url: '/slides/FMA2024_presentation.pdf'  # Same path as above
+
+
 featured: true
 projects:
   - Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
