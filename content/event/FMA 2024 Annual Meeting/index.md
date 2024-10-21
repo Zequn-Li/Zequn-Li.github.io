@@ -5,7 +5,7 @@ event: 2024 FMA Annual Meeting  - Session 243
 
 event_url: https://www.fma.org/Texas
 
-location: Grapevine, TX
+
 address:
   street: Gaylord Texan Resort & Convention Center
   city: Grapevine
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: Session 243 - Machine Learning Applications in Asset Pricing
-abstract: "Presenting our research on interpreting machine learning asset pricing models using LIME methodology at the Financial Management Association Annual Meeting."
+
 
 # Update the dates
 date: '2024-10-19T10:15:00Z'  # Your session date
@@ -32,12 +32,12 @@ tags:
 # authors: []
 
 # Add these new lines
-url_slides: '/uploads/FMA2024_presentation.pdf'  # Adjust the path to match your file name
+url_slides: 'uploads/FMA2024_presentation.pdf'  # Adjust the path to match your file name
 links:
   - icon: file-pdf
     icon_pack: fas
     name: Slides
-    url: '/uploads/FMA2024_presentation.pdf'  # Same path as above
+    url: 'uploads/FMA2024_presentation.pdf'  # Same path as above
 
 
 featured: true
@@ -45,12 +45,6 @@ projects:
   - Interpreting Cross-Section Returns of Machine Learning Models Firm Characteristics and Moderation Effect through LIME
 
 ---
-Presenting at the 2024 Financial Management Association Annual Meeting in Session 243: Machine Learning Applications in Asset Pricing.
-
-**Session Details:**
-- **Date:** Saturday, October 19, 2024
-- **Session:** 243 - Machine Learning Applications in Asset Pricing
-- **Venue:** Gaylord Texan Resort & Convention Center, Grapevine, TX
 
 **Paper Abstract:**
 Our study introduces a novel framework to interpret machine learning asset pricing models through the Local Interpretable Model-agnostic Explanations (LIME) method. This methodology illuminates how the inclusion of LIME local coefficients, representing the interaction among characteristics within ML models, modifies the relationship between a firm characteristic and stock returns. The empirical results underscore the significance of incorporating moderation effects into portfolio analysis. Our results present that certain firm characteristics exhibit varying long-short portfolio performance across LIME groups, suggesting their predictive power is specific to certain asset segments. These findings deepen our understanding of the complexities in cross-sectional stock returns, uncovering the detailed dynamics between firm characteristics and their return effects, and distinguishing our research from existing studies.
