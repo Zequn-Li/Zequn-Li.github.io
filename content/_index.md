@@ -124,7 +124,8 @@ sections:
     id: workingpaper
     content:
       title: Working Papers
-      date_format: 'Jan 2006'
+      show_events: true # Add this line
+      # date_format: 'Jan 2006'
       filters:
         folders:
           - project
