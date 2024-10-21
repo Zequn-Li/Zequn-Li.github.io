@@ -124,6 +124,7 @@ sections:
     id: workingpaper
     content:
       title: Working Papers
+      sort_by: 'order'
       show_events: true # Add this line
       # date_format: 'Jan 2006'
       filters:
