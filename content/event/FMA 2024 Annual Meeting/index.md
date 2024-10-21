@@ -16,12 +16,12 @@ all_day: true
 
 
 # Add these new lines
-url_slides: '/slides/FMA2024_presentation.pdf'  # Adjust the path to match your file name
+url_slides: '/uploads/FMA2024_presentation.pdf'  # Adjust the path to match your file name
 links:
   - icon: file-pdf
     icon_pack: fas
     name: Slides
-    url: '/slides/FMA2024_presentation.pdf'  # Same path as above
+    url: '/uploads/FMA2024_presentation.pdf'  # Same path as above
 
 
 featured: true
